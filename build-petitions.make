@@ -5,5 +5,4 @@ projects[drupal][version] = "7.12"
 
 projects[petitions][type] = "profile"
 projects[petitions][download][type] = "git"
-projects[petitions][download][url] = "http://git.drupal.org/project/SOMEPATH.git"
-projects[petitions][download][revision] = "7.x-2.x"
+projects[petitions][download][url] = "github.com:unn/derp-octo-hipster.git"
