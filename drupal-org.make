@@ -30,6 +30,9 @@ projects[features][subdir] = contrib
 projects[field_group][version] = 1.1
 projects[field_group][subdir] = contrib
 
+projects[onecomment][version] = 1.0-beta2
+projects[onecomment][subdir] = contrib
+
 projects[metatag][version] = 1.0-alpha5
 projects[metatag][subdir] = contrib
 
