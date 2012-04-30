@@ -55,4 +55,4 @@ dependencies[] = views_infinite_scroll
 
 ; files
 ; --------
-files[] = petitions .profile
+files[] = petitions.profile
